@@ -5,10 +5,11 @@ public class Abc {
 		System.out.println("test");
 	}
 	//ÇÔ¼ö1
-	
-	
-	
-	
+	public void getTestddfefd()
+	{
+		System.out.println("dgdg");
+	}
+		
 	
 	
 	
