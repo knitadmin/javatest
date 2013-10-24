@@ -44,6 +44,9 @@ public class Encap {
 	public void teee(){
 		System.out.println("dddd");
 	}
+	public void teee3333(){
+		System.out.println("dddd");
+	}
 }
 class EncapTest
 {
