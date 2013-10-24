@@ -29,10 +29,10 @@ public class Encap {
 	{
 		return this.day;
 	}
-	public void setYear(int year)
+	/*public void setYear(int year)
 	{
 		this.year = year;
-	}
+	}*/
 	public void setMonth(int month)
 	{
 		this.month = month;
