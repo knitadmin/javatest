@@ -13,6 +13,10 @@ public class Abc {
 	
 	
 	//ÇÔ¼ö2
-	
+	void add ( int i, int j)
+	 {
+		 i = i+j;
+		 System.out.println("i : "  + i );
+	 }
 
 }
