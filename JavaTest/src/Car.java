@@ -21,5 +21,6 @@ public class Car {
 		Car c = new Car();
 		c.driveSate(1);
 		System.out.println("dd");
+		
 	}
 }
