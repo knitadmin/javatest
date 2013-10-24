@@ -4,4 +4,20 @@ public class Abc {
 	{
 		System.out.println("test");
 	}
+	//함수1
+	
+	
+	
+	
+	
+	
+	
+	//함수2
+	
+	
+	
+	
+	
+	
+	
 }
