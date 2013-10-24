@@ -41,6 +41,9 @@ public class Encap {
 	{
 		this.day = day;
 	}
+	public void teee(){
+		System.out.println("dddd");
+	}
 }
 class EncapTest
 {
