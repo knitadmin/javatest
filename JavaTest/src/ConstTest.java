@@ -33,5 +33,6 @@ public class ConstTest {
 		c.print();
 		c.name = "kim..soo";
 		System.out.println("name : "+ c.name);
+		System.out.println("test");
 	}
 }
