@@ -52,6 +52,6 @@ class EncapTest
 		System.out.println("day: "+en.getDay());
 		en.printAll();
 		System.out.println("dd");
-
+		System.out.println("dd22");	
 	}
 }
