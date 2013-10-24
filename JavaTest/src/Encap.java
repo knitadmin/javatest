@@ -51,7 +51,6 @@ class EncapTest
 		en.setDay(28); // en.day = 28;
 		System.out.println("day: "+en.getDay());
 		en.printAll();
-		System.out.println("dd");
-		System.out.println("dd22");	
+	
 	}
 }
