@@ -8,6 +8,7 @@ public class Abc {
 	public void getTestddfefd()
 	{
 		System.out.println("dgdg");
+		System.out.println("test Function!");
 	}
 		
 	
